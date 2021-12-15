@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Docuscope</span></title>
+   <topic href="welcometodocuscope.html" data-id="welcometodocuscope">
+      <title>Welcome to DocuScope</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">DocuScope is a corpus-based text analysis tool that performs both quantitative and
+            qualitative analyses of the rhetorical strategies used in texts.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="aboutdocuscope.html" data-id="aboutdocuscope">
+      <title>About DocuScope</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">DocuScope is an application under development that is used to analyze rhetorical 
+            features of a text.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="r_docuscopeelements.html" data-id="r_docuscopeelements">
+         <title>DocuScope Interface</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Refer to this page for a breakdown of the DocuScope application</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="docuscopedefinitions.html" data-id="docuscopedefinitions">
+         <title>DocuScope Definitions</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Refer to this page for definitions of different DocuScope elements</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="textanalysis.html" data-id="textanalysis">
+      <title>DocuScope Overview</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use DocuScope to analyze either a single text or a group corpus.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="c_clustersdimensionslats.html" data-id="c_clustersdimensionslats">
+      <title>Categories of Analysis</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">DocuScope assesses meaning through both individual words and streams of words in 
+            sequence.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="c_categories.html" data-id="c_categories">
+         <title>Clusters</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clusters are the highest level of rhetorical categorization.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="c_dimensions.html" data-id="c_dimensions">
+         <title>Dimensions</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Dimensions are the second level of rhetorical categorization.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="c_language_action_types.html" data-id="c_language_action_types">
+         <title>Language Action Types</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Language Action Types (LATs) are the smallest level of categorization.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="t_analyzeasingletext.html" data-id="t_analyzeasingletext">
+      <title>Set Up DocuScope</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Complete the initial setup to DocuScope for each session to begin analyzing      
+            texts.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_loadadictionary.html" data-id="t_loadadictionary">
+         <title>Load a Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Before analyzing a text, you need to load a DocuScope dictionary.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="t_loadatext.html" data-id="t_loadatext">
+      <title>Loading a Text</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Load a text into DocuScope to analyze.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_loadasingletext.html" data-id="t_loadasingletext">
+         <title>Load a Single Text</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Upload a single text to be analyzed by DocuScope.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_loadmultipletexts.html" data-id="t_loadmultipletexts">
+         <title>Load a Single Group of Texts</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Upload a single set of multiple texts to be analyzed together. </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_loadmultipletextgroups.html" data-id="t_loadmultipletextgroups">
+         <title>Load Multiple Groups of Texts</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">DocuScope is designed to process multiple texts across multiple groupings in a   
+               corpus.
+            </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="c_textanalysis.html" data-id="c_textanalysis">
+      <title>Visualizing Rhetoric</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Once a text is loaded, visualize the rhetorical features used by the         author.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_filterresults.html" data-id="t_filterresults">
+         <title>Filter Results</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When analyzing a single text, filter results by either <dfn class="term">Cluster</dfn> or             <dfn class="term">Dimension</dfn></p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_chooseacategory.html" data-id="t_chooseacategory">
+         <title>Choose a Cluster</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Pick a rhetorical cluster to visualize results.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="c_temporalview_0.html" data-id="c_temporalview_0">
+      <title>Temporal View</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The lower section of the DocuScope application displays the temporal view, which 
+            shows you how language patterns are used over time (from the beginning to the end
+            of the         text).
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_selectingaparagraph.html" data-id="t_selectingaparagraph">
+         <title>Highlight a Paragraph</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The <dfn class="term">Temporal View</dfn> displays how rhetorical patterns are used in each         paragraph. Highlight a
+               paragraph to focus in on a certain passage.
+            </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="c_graphingoptions.html" data-id="c_graphingoptions">
+         <title>Graphing Options</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The <dfn class="term">Temporal View</dfn> offers several ways to view rhetorical         patterns.
+            </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+         <topic href="t_changegraphingoptions.html" data-id="t_changegraphingoptions">
+            <title>Change Graphing Options</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">In the <dfn class="term">Temporal View</dfn>, change the method used to graph         results.
+               </p>
+            </shortdesc>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="t_displaymultippleclusters.html" data-id="t_displaymultippleclusters">
+         <title>Display Multiple Clusters</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Visualize multiple clusters in the <dfn class="term">Temporal View</dfn>.
+            </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="c_dictionaries.html" data-id="c_dictionaries">
+      <title>Dictionaries</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Dictionaries are the key to making DocuScope work.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="c_defaultdictionary.html" data-id="c_defaultdictionary">
+         <title>Default Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The default dictionary is a massive collection of linguistic patterns.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="c_creatinganewdictionary.html" data-id="c_creatinganewdictionary">
+      <title>Creating a New Dictionary</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Create your own custom dictionary to use in DocuScope.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_createadictionary.html" data-id="t_createadictionary">
+         <title>Create A Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Create a new dictionary to use in DocuScope.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="r_dictionaryoverview.html" data-id="r_dictionaryoverview">
+         <title>Dictionary Overview</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Refer to this page for an overview of the dictionary creation page.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="ddictionaryproperties.html" data-id="ddictionaryproperties">
+         <title>Dictionary Properties</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Refer to this page for definitions of the dictionary properties.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="c_editingadictionary.html" data-id="c_editingadictionary">
+      <title>Editing a Dictionary</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Learn to edit your dictionary to create your own tool for analysis.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="t_editadictionary.html" data-id="t_editadictionary">
+         <title>Open A Dictionary for Editing</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Open a dictionary in the editor to begin customizing.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_addingclustersdimensions.html" data-id="t_addingclustersdimensions">
+         <title>Add Clusters and Dimensions</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Add a new cluster or dimension to your dictionary.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_addingLATs.html" data-id="t_addingclustersdimensions">
+         <title>Add LATs to the Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Add more specific rhetorical patterns to your dictionary with <a class="xref" href="c_language_action_types.html">c_language_action_types.html</a>.
+            </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_editingclusterdimensionproperties.html" data-id="t_editingclusterdimensionproperties">
+         <title>Edit Cluster and Dimension Properties</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Modify existing clusters and dimensions to add descriptions and labels.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_moveacategory.html" data-id="t_moveacategory">
+         <title>Move a Dimension</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Move a dimension to another cluster.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_moveanLAT.html" data-id="t_moveacategory">
+         <title>Move an LAT</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Move an LAT to another dimension.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_saveadictionary.html" data-id="t_saveadictionary">
+         <title>Verify and Save a Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">After you finish editing your dictionary, verify its contents and save it.  </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="t_exportadictionary.html" data-id="t_exportadictionary">
+         <title>Export a Dictionary</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Finalize and create a .DAT file of the dictionary.</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+</toc>

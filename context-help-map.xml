@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="welcometodocuscope" path="welcometodocuscope.html"/>
+   <appContext helpID="aboutdocuscope" path="aboutdocuscope.html"/>
+   <appContext helpID="r_docuscopeelements" path="r_docuscopeelements.html"/>
+   <appContext helpID="docuscopedefinitions" path="docuscopedefinitions.html"/>
+   <appContext helpID="textanalysis" path="textanalysis.html"/>
+   <appContext helpID="c_clustersdimensionslats" path="c_clustersdimensionslats.html"/>
+   <appContext helpID="c_categories" path="c_categories.html"/>
+   <appContext helpID="c_dimensions" path="c_dimensions.html"/>
+   <appContext helpID="c_language_action_types" path="c_language_action_types.html"/>
+   <appContext helpID="t_analyzeasingletext" path="t_analyzeasingletext.html"/>
+   <appContext helpID="t_loadadictionary" path="t_loadadictionary.html"/>
+   <appContext helpID="t_loadatext" path="t_loadatext.html"/>
+   <appContext helpID="t_loadasingletext" path="t_loadasingletext.html"/>
+   <appContext helpID="t_loadmultipletexts" path="t_loadmultipletexts.html"/>
+   <appContext helpID="t_loadmultipletextgroups" path="t_loadmultipletextgroups.html"/>
+   <appContext helpID="c_textanalysis" path="c_textanalysis.html"/>
+   <appContext helpID="t_filterresults" path="t_filterresults.html"/>
+   <appContext helpID="t_chooseacategory" path="t_chooseacategory.html"/>
+   <appContext helpID="c_temporalview_0" path="c_temporalview_0.html"/>
+   <appContext helpID="t_selectingaparagraph" path="t_selectingaparagraph.html"/>
+   <appContext helpID="c_graphingoptions" path="c_graphingoptions.html"/>
+   <appContext helpID="t_changegraphingoptions" path="t_changegraphingoptions.html"/>
+   <appContext helpID="t_displaymultippleclusters"
+               path="t_displaymultippleclusters.html"/>
+   <appContext helpID="c_dictionaries" path="c_dictionaries.html"/>
+   <appContext helpID="c_defaultdictionary" path="c_defaultdictionary.html"/>
+   <appContext helpID="c_creatinganewdictionary" path="c_creatinganewdictionary.html"/>
+   <appContext helpID="t_createadictionary" path="t_createadictionary.html"/>
+   <appContext helpID="r_dictionaryoverview" path="r_dictionaryoverview.html"/>
+   <appContext helpID="ddictionaryproperties" path="ddictionaryproperties.html"/>
+   <appContext helpID="c_editingadictionary" path="c_editingadictionary.html"/>
+   <appContext helpID="t_editadictionary" path="t_editadictionary.html"/>
+   <appContext helpID="t_addingclustersdimensions"
+               path="t_addingclustersdimensions.html"/>
+   <appContext helpID="t_addingclustersdimensions" path="t_addingLATs.html"/>
+   <appContext helpID="t_editingclusterdimensionproperties"
+               path="t_editingclusterdimensionproperties.html"/>
+   <appContext helpID="t_moveacategory" path="t_moveacategory.html"/>
+   <appContext helpID="t_moveacategory" path="t_moveanLAT.html"/>
+   <appContext helpID="t_saveadictionary" path="t_saveadictionary.html"/>
+   <appContext helpID="t_exportadictionary" path="t_exportadictionary.html"/>
+</map>
